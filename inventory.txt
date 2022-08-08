@@ -1,2 +1,2 @@
 [ubuntu]
-ec2-54-172-49-188.compute-1.amazonaws.com
+ec2-54-198-180-243.compute-1.amazonaws.com
