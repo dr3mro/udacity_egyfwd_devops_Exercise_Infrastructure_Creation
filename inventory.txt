@@ -1,2 +1,2 @@
-[all]
+[ubuntu]
 ec2-54-172-49-188.compute-1.amazonaws.com
